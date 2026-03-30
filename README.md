@@ -45,13 +45,13 @@ With experience in modern backend architectures and cross-platform mobile develo
 
 <div align="center">
 
-![Teta Sonia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&hide=contribs&count_private=true)
+![Teta Sonia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=WatetaE&show_icons=true&theme=tokyonight&hide_border=true&hide=contribs&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YWateta&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=Wateta&theme=tokyonight&hide_border=true)
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&margin-w=15)
+![Trophies](https://github-profile-trophy.vercel.app/?username=WatetaE&theme=tokyonight&no-frame=true&margin-w=15)
 
 </div>
 
