@@ -41,21 +41,7 @@ With experience in modern backend architectures and cross-platform mobile develo
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-![Teta Sonia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=WatetaE&show_icons=true&theme=tokyonight&hide_border=true&hide=contribs&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YWateta&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Wateta&theme=tokyonight&hide_border=true)
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=WatetaE&theme=tokyonight&no-frame=true&margin-w=15)
-
-</div>
-
----
 
 ## 📌 Featured Projects
 
