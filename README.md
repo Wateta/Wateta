@@ -7,7 +7,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1500&color=00C3FF&center=true&vCenter=true&width=600&lines=Building+scalable+backend+systems;Passionate+about+Cyber+Security;Turning+ideas+into+secure+solutions;Based+in+Kigali%2C+Rwanda)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2800&pause=1200&color=00C3FF&center=true&vCenter=true&width=650&lines=Building+scalable+backend+systems;Passionate+about+Cyber+Security;Creating+secure+and+impactful+solutions;Based+in+Kigali%2C+Rwanda)](https://git.io/typing-svg)
 
 </div>
 
@@ -15,18 +15,20 @@
 
 ## 🚀 About Me
 
-Passionate backend developer dedicated to building **scalable**, **secure**, and efficient digital solutions that solve real-world problems in Rwanda and beyond.
+Passionate backend developer dedicated to building **scalable**, **secure**, and efficient digital solutions that solve real-world problems.  
 
-I focus on clean architecture, performance, and security best practices while creating web applications that make a positive impact.
+I focus on clean architecture, performance optimization, and security best practices while developing web and mobile applications that create positive impact.
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Backend**  
+**Backend & Frameworks**  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
 **Databases**  
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -43,11 +45,13 @@ I focus on clean architecture, performance, and security best practices while cr
 
 <div align="center">
 
-![Teta Sonia's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical&hide_border=true&count_private=true)
+![Teta Sonia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&hide=contribs&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=your-github-username&theme=radical&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true)
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&margin-w=15)
 
 </div>
 
@@ -55,11 +59,9 @@ I focus on clean architecture, performance, and security best practices while cr
 
 ## 📌 Featured Projects
 
-- **[Personal Task Management System (PTMS)](https://github.com/yourusername/ptms)** — Full-featured task management app with secure authentication and real-time updates.
-- **[Wastenet](https://github.com/Wateta/wastenet)** — Smart waste management platform promoting environmental sustainability.
-- **[HerAccess](https://github.com/Wateta/HerIngress)** — Platform designed to empower women through accessible resources and community tools.
-
-*(Replace the links with your actual repository URLs and add short descriptions that highlight the problem each project solves.)*
+- **[Personal Task Management System (PTMS)](https://github.com/YOUR_GITHUB_USERNAME/ptms)** — Full-featured task management application with secure authentication and productivity tools.
+- **[Wastenet](https://wastenet.vercel.app/)** — Smart digital platform for waste management and environmental sustainability.
+- **[HerIngress](https://github.com/YOUR_GITHUB_USERNAME/heringress)** — Platform designed to empower women with accessible resources and community support.
 
 ---
 
@@ -68,7 +70,7 @@ I focus on clean architecture, performance, and security best practices while cr
 - **Email**: [shimirwasonia5@gmail.com](mailto:shimirwasonia5@gmail.com)
 - **Instagram**: [@t_sonia_93](https://www.instagram.com/t_sonia_93/)
 
-I'm always excited to collaborate on backend projects or discuss cybersecurity topics. Feel free to reach out!
+Open to collaboration, new opportunities, or discussions around backend development, mobile apps, and cybersecurity.
 
 ---
 
