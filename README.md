@@ -1,6 +1,6 @@
 # Hi 👋, I'm Teta Sonia
 
-**Backend Developer & Cybersecurity Enthusiast**  
+**Backend Developer & Mobile App Developer | Cybersecurity Enthusiast**  
 📍 Kigali, Rwanda
 
 ---
@@ -15,9 +15,9 @@
 
 ## 🚀 About Me
 
-Passionate backend developer dedicated to building **scalable**, **secure**, and efficient digital solutions that solve real-world problems.  
+Passionate **backend** and **mobile app developer** dedicated to building scalable, secure, and efficient digital solutions that solve real-world problems.  
 
-I focus on clean architecture, performance optimization, and security best practices while developing web and mobile applications that create positive impact.
+With experience in modern backend architectures and cross-platform mobile development using React and Kotlin, I focus on clean code, performance optimization, and security best practices to create impactful web and mobile applications.
 
 ---
 
