@@ -48,13 +48,14 @@ With experience in modern backend architectures and cross-platform mobile develo
 - **[Personal Task Management System (PTMS)](https://github.com/YOUR_GITHUB_USERNAME/ptms)** — Full-featured task management application with secure authentication and productivity tools.
 - **[Wastenet](https://wastenet.vercel.app/)** — Smart digital platform for waste management and environmental sustainability.
 - **[HerIngress](https://github.com/YOUR_GITHUB_USERNAME/heringress)** — Platform designed to empower women with accessible resources and community support.
+- **[MyPortfolio](https://soniaportifolio.vercel.app/)** — Platform designed to empower women with accessible resources and community support.
 
 ---
 
 ## 📫 Let's Connect
 
 - **Email**: [shimirwasonia5@gmail.com](mailto:shimirwasonia5@gmail.com)
-- **Instagram**: [@t_sonia_93](https://www.instagram.com/t_sonia_93/)
+
 
 Open to collaboration, new opportunities, or discussions around backend development, mobile apps, and cybersecurity.
 
